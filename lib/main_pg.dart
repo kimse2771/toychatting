@@ -44,7 +44,7 @@ class _MainPageState extends State<MainPage> {
                       isLoginButton = false;
                     });
                     },
-                  child: Text("버튼 바꾸기"),
+                  child: Text("버튼 바꾸기!"),
               ),
             ),
 
